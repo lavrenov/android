@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="tab_text_1">Последние</string>
+    <string name="tab_text_2">Лучшее</string>
+    <string name="tab_text_3">Горячие</string>
+    <string name="back_button_text">Назад</string>
+    <string name="next_button_text">Следующий</string>
+    <string name="retry_button_text">Повторить</string>
+    <string name="no_images">Нет картинок</string>
+    <string name="error">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+</resources>
